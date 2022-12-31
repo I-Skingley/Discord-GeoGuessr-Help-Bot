@@ -28,10 +28,17 @@ Will require the following in an .env file:
 
 ## Screenshots
 Low zoom
+
 ![Low](/Screenshots/low.png?raw=true)
+
 Med zoom
+
 ![Med](/Screenshots/med.png?raw=true)
+
 High zoom
+
 ![High](/Screenshots/high.png?raw=true)
+
 Very High zoom
+
 ![VHigh](/Screenshots/vhigh.png?raw=true)
